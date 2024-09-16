@@ -12,3 +12,42 @@ header{
     bottom: 10%;
     
 }
+
+h1{
+    font-size: 30px;
+}
+
+.text_h1, .intex{
+    color: rgba(59, 59, 59, 0.308);
+}
+
+b{
+    color: rgb(0, 174, 255);
+}
+
+thead{
+    background-color: rgb(0, 140, 255);
+    color: white;
+}
+
+.row{
+    background-color: aqua;
+}
+
+.center_row{
+    background-color: lightgray;
+}
+
+.back{
+    width: 150px;
+    height: 150px;
+    color: white;
+}
+
+.img_foot1{
+    background-image: url(../img/monitor.jpg);
+}
+
+.img_foot2{
+    background-image: url(../img/graph.jpg);
+}
