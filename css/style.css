@@ -57,6 +57,10 @@ thead{
     color: white;
 }
 
+span{
+    background-color: yellow;
+}
+
 .img_foot1{
     background-image: url(../img/monitor.jpg);
     margin: 0;
