@@ -15,19 +15,32 @@ header{
 
 h1{
     font-size: 30px;
+    margin-bottom: 0;
 }
 
-.text_h1, .intex{
+.intex{
+    margin-top: 0;
+}
+
+.int-img{
+    margin-bottom: 0;
+}
+
+.text_h1, .intex, .intex_img{
     color: rgba(59, 59, 59, 0.308);
 }
 
-b{
+strong{
     color: rgb(0, 174, 255);
 }
 
 thead{
     background-color: rgb(0, 140, 255);
     color: white;
+}
+
+.space{
+    height: 40px;
 }
 
 .row{
@@ -46,8 +59,10 @@ thead{
 
 .img_foot1{
     background-image: url(../img/monitor.jpg);
+    margin: 0;
 }
 
 .img_foot2{
     background-image: url(../img/graph.jpg);
 }
+
